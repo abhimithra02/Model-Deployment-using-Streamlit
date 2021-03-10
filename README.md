@@ -1,3 +1,3 @@
-# Model-Deployment-on-Streamlit
+# Model-Deployment-using-Streamlit
 
 https://scvrbf.herokuapp.com/
